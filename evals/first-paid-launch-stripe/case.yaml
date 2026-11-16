@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: first-paid-launch-stripe
+expected_outcome: |
+  A short ranked list of things a first-time founder launching paid subscriptions would not think to ask, each with a concrete action, plus insider terms and who to ask. It should not be a general launch checklist.

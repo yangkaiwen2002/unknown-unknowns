@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: rent-first-office-hangzhou
+expected_outcome: |
+  A short ranked list, in Chinese, of things a first-time office tenant in Hangzhou would not think to ask, each with a concrete action, plus insider terms and who to ask. It should not be a general office-renting guide.
