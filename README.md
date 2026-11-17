@@ -62,3 +62,7 @@ Claude 桌面端或网页端：下载仓库里的 `SKILL.md`，在"设置 → �
 ## 测试
 
 `evals/` 下有上述三个测试场景，可以用 `claude plugin eval .` 运行。
+
+## 许可证
+
+[MIT](LICENSE)
